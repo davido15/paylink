@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "yinava",
+    "slug": "yinava",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/background.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#2F3B52"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": ""
+  }
+}
